@@ -1,4 +1,4 @@
-# Userbot Plugins = 9 Packs ![GitHub repo size](https://img.shields.io/github/repo-size/AbirHasan2005/?label=Repo%20Size)
+# Userbot Plugins = 9 Packs
 Some useful & funny Userbot Plugins by @AbirHasan2005.
 
 ### I will add new plugins anytime. So must Join [![telegram](https://img.shields.io/badge/Telegram-Telegram%20Group-blue.svg?logo=telegram)](http://t.me/linux_repo) for updates.
