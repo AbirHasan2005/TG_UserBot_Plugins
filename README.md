@@ -4,28 +4,28 @@ Some useful & funny Userbot Plugins by @AbirHasan2005.
 ### I will add new plugins anytime. So must Join [![telegram](https://img.shields.io/badge/Telegram-Telegram%20Group-blue.svg?logo=telegram)](http://t.me/linux_repo) for updates.
 
 ## Plugins List:
-- hacking.py
+- [hacking.py](https://github.com/AbirHasan2005/TG_UserBot_Plugins/blob/master/README.md#hacking)
 	- Can edit, depands on you
 
-- iamyo.py
+- [iamyo.py](https://github.com/AbirHasan2005/TG_UserBot_Plugins/blob/master/README.md#iamyo)
 	- Edit before installing
 
-- indianflag
+- [indianflag](https://github.com/AbirHasan2005/TG_UserBot_Plugins/blob/master/README.md#indiandlag)
 	- Don't edit anything
 
-- indianmap
+- [indianmap](https://github.com/AbirHasan2005/TG_UserBot_Plugins/blob/master/README.md#indianmap)
 	- Don't edit anything
 
-- ophack.py
+- [ophack.py](https://github.com/AbirHasan2005/TG_UserBot_Plugins/blob/master/README.md#ophack)
 	- Don't edit anything
 
-- repos.py
+- [repos.py](https://github.com/AbirHasan2005/TG_UserBot_Plugins/blob/master/README.md#repos)
 	- Edit before installing
 
-- sleep.py
+- [sleep.py](https://github.com/AbirHasan2005/TG_UserBot_Plugins/blob/master/README.md#sleep)
 	- Don't edit anything
 
-- whoami.py
+- [whoami.py](https://github.com/AbirHasan2005/TG_UserBot_Plugins/blob/master/README.md#whoami)
 	- Edit before installing
 
 - More coming soon
