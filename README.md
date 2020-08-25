@@ -29,6 +29,7 @@ Some useful & funny Userbot Plugins by @AbirHasan2005.
 	- Edit before installing
 
 - [pmpermit.py](https://github.com/AbirHasan2005/TG_UserBot_Plugins/blob/master/README.md#pmpermit)
+	- Edit before installing
 
 - More coming soon
 
