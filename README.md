@@ -1,4 +1,4 @@
-# Userbot Plugins = 9 Packs
+# Userbot Plugins = 10 Packs
 Some useful & funny Userbot Plugins by @AbirHasan2005.
 
 ### I will add new plugins anytime. So must Join [![telegram](https://img.shields.io/badge/Telegram-Telegram%20Group-blue.svg?logo=telegram)](http://t.me/linux_repo) for updates.
@@ -28,12 +28,17 @@ Some useful & funny Userbot Plugins by @AbirHasan2005.
 - [whoami.py](https://github.com/AbirHasan2005/TG_UserBot_Plugins/blob/master/README.md#whoami)
 	- Edit before installing
 
+- [pmpermit.py](https://github.com/AbirHasan2005/TG_UserBot_Plugins/blob/master/README.md#pmpermit)
+
 - More coming soon
 
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## hacking:
 Shows fake hacking environment. Runs with `.hacking` & this was fully coded by @AbirHasan2005
+
+## pmpermit:
+New kind of pmpermit.    ***Please Edit PM_PERMIT Image Before Installing!***
 
 ## iamyo:
 Stylish Info for myself/yourself. Runs with `.iamyo` & this was modifed by @AbirHasan2005     ***Please Edit Before Installing!***
